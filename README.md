@@ -1,10 +1,16 @@
-# Tianna Parris - Data Analyst Portfolio
-## About
-Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
+# Chau Nguyen Quynh - Data Analyst Portfolio
+## About Me
+**A Storyteller Driven by Data**
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+I began my journey in Tourism Management and Languages, where I developed a deep fascination with human behavior and communication. Transitioning into Content Creation, I discovered that creativity is most impactful when anchored in data. By leveraging user insights and performance metrics, I helped scale a YouTube channel to 100,000 subscribers in just 10 months, proving that data-driven strategy is the key to sustainable growth.
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+**Bridging Creativity and Analytics**
+
+To me, data is more than just numbers; it’s a narrative waiting to be decoded. I have mastered a technical toolkit including SQL (BigQuery), Python, and BI tools (Power BI, Tableau) to tackle complex business problems. Whether it’s identifying bottlenecks in a Sales Funnel or segmenting customers to drive ROI, I focus on transforming raw datasets into actionable strategies that move the needle for businesses.
+
+**A Systematic & Growth Mindset**
+
+Beyond the technical skills, I bring a disciplined, systematic approach from my experience as a Freelance English Tutor. By building custom performance dashboards, I achieved a 60% improvement in student outcomes, demonstrating my commitment to measurable results. I am eager to bring this blend of analytical rigor and communication expertise to a growth-focused Data Analyst role.
 
 My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
 
