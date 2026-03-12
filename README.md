@@ -17,8 +17,8 @@ My CV in [pdf](https://github.com/xbumbleboo/Data-Analysist-Portfolio/blob/main/
 This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
 
 ## Table of Contents
-- [About](https://github.com/xbumbleboo/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/xbumbleboo/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/xbumbleboo/Data-Analysist-Portfolio/tree/main?tab=readme-ov-file#about-me)
+- [Portfolio Projects](https://github.com/xbumbleboo/Data-Analysist-Portfolio/tree/main?tab=readme-ov-file#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
@@ -33,9 +33,9 @@ This is a repository to showcase skills, share projects and track my progress in
   
 
 
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Education](https://github.com/xbumbleboo/Data-Analysist-Portfolio/tree/main?tab=readme-ov-file#education)  
+- [Certificates](https://github.com/xbumbleboo/Data-Analysist-Portfolio/tree/main?tab=readme-ov-file#certificates)
+- [Contact](https://github.com/xbumbleboo/Data-Analysist-Portfolio/tree/main?tab=readme-ov-file#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
