@@ -20,10 +20,10 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/xbumbleboo/Data-Analysist-Portfolio/tree/main?tab=readme-ov-file#about-me)
 - [Portfolio Projects](https://github.com/xbumbleboo/Data-Analysist-Portfolio/tree/main?tab=readme-ov-file#portfolio-projects)
   - Python
-    - [E-commerce Sales & Customer Insight Analysis](https://github.com/xbumbleboo/E-commerce-EDA-Project) 
+    - [E-commerce Sales & Customer Insight Analysis](https://github.com/xbumbleboo/Data-Analysist-Portfolio/tree/main?tab=readme-ov-file#e-commerce-sales--customer-insight-analysis) 
   - SQL
-    - [E-commerce Sales Funnel & User Journey Analysis](https://github.com/xbumbleboo/Sales-Funnel-Analysis)
-    - [Pizza Sales Analysis](https://github.com/xbumbleboo/Pizza-Sales-Analysis)
+    - [E-commerce Sales Funnel & User Journey Analysis](https://github.com/xbumbleboo/Data-Analysist-Portfolio/tree/main?tab=readme-ov-file#e-commerce-sales-funnel--user-journey-analysis)
+    - [Pizza Sales Analysis](https://github.com/xbumbleboo/Data-Analysist-Portfolio/tree/main?tab=readme-ov-file#pizza-sales-analysis)
   - Excel / Google Sheets
   - Power BI
   
