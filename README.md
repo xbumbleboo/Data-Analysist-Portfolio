@@ -20,15 +20,11 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/xbumbleboo/Data-Analysist-Portfolio/tree/main?tab=readme-ov-file#about-me)
 - [Portfolio Projects](https://github.com/xbumbleboo/Data-Analysist-Portfolio/tree/main?tab=readme-ov-file#portfolio-projects)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+    - [E-commerce Sales & Customer Insight Analysis](https://github.com/xbumbleboo/E-commerce-EDA-Project) 
   - SQL
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
-  - R
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
+    - [E-commerce Sales Funnel & User Journey Analysis](https://github.com/xbumbleboo/Sales-Funnel-Analysis)
+    - [Pizza Sales Analysis](https://github.com/xbumbleboo/Pizza-Sales-Analysis)
   - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
   - Power BI
   
 
@@ -39,92 +35,65 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+### E-commerce Sales & Customer Insight Analysis
+**Code:** [`E_Commerce_EDA (EN).ipynb`](https://github.com/xbumbleboo/E-commerce-EDA-Project/blob/main/E_Commerce_EDA%20(EN).ipynb)
 
-**Goal:** To determine what factors contribute the most to a movie's success.
+**Goal:** To uncover trends in sales, customer behavior, and profitability drivers.
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+**Description:** Conducted an end-to-end Exploratory Data Analysis (EDA) on 34.5K transactions. [cite_start]The project included data cleaning, calculating business KPIs, and performing customer segmentation to identify high-value categories.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** Data Cleaning, Statistical Analysis, Customer Segmentation
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Technology:** Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+**Results:** Segmented high-value customer groups and delivered strategic recommendations for logistics and marketing focus.
 
-### Tech Store Sales Analysis
+### E-commerce Sales Funnel & User Journey Analysis
 
-**Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
+**Code:** [`Sale funnel.sql`](https://github.com/xbumbleboo/Sales-Funnel-Analysis/blob/main/Sale%20funnel.sql)
 
-**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+**Goal:** To identify drop-off points and optimize conversion rates across the customer journey.
 
-**Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
+**Description:** Mapped end-to-end customer journeys using SQL on BigQuery.
 
-**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
+**Skills:** SQL, Funnel Leakage Analysis, Conversion Rate Optimization
 
-**Technology:** Python, Pandas, Matplotlib.
+**Technology:** Google BigQuery.
 
-**Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
-
-
-
-### Nashville Housing Data Cleaning
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
-
-**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
-
-
-**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
-
-**Technology:** SQL Server
-
-
-### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
-
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
-
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-
-**Technology:** SQL Server
+**Results:** Identified a critical bottleneck at the "View to Cart" stage while confirming a high efficiency (~80%) from checkout to purchase, leading to data-driven recommendations for user flow optimization
 
 
 
-### Legendary Pokémon Analysis
+### Pizza Sales Analysis
+**Code:** [`Pizza_Sales_Analysis.sql`](https://github.com/xbumbleboo/Pizza-Sales-Analysis/blob/main/SQL%20CODE.docx)
 
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
+**Goal:** To evaluate business performance and optimize product portfolio
 
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
-
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
-
-**Skills:** data cleaning, data analysis, data visualization.
-
-**Technology:** Tidyverse 
+**Description:** Analyzed pizza sales data to track revenue, order volume, and purchasing patterns. Created an interactive visualization system to monitor peak-hour trends and size preferences
 
 
+**Skills:**Data Aggregation, KPI Calculation, Data Visualization
+
+**Technology:** MySQL, Power BI
+
+**Results:** Identified top and bottom sellers to support inventory planning and strategic marketing
 
 
 
 ## Education
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
+**Tourism and Travel Services Management** | Thang Long University
+Sep 2019 - Dec 2023
 
-The University of the West Indies, Mona:
-Bachelor's degree, Biochemistry and Molecular Biology,
-2019 - 2022
-
-Pre University School:
-Associate's degree, Science and Mathematics,
-2017 - 2019
+**TOEIC 935** 
+Dec 2023
 
 ## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have:
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/990c93a1033eb6d8ffa55770779c5a90) (Aug 2024) (Coursera - Google)
+- [Google Project Management](https://coursera.org/share/c43a86f0bba96e1c85ff71129c951ba3) (Apr 2024) (Coursera - Google)
+- [Google Digital Marketing & E-commerce](https://coursera.org/share/6828f41ad5054326be2ea6dc5a25bc2b) (Sep 2023) (Coursera - Google)
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
+- LinkedIn: [Quynh Chau Nguyen](https://www.linkedin.com/in/quynh-chau-nguyen-052b8619a/)
+- Email: chauaz221@gmail.com
+- Location: Ha Noi, Viet Nam
