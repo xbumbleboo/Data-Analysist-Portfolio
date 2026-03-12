@@ -12,9 +12,9 @@ To me, data is more than just numbers; it’s a narrative waiting to be decoded.
 
 Beyond the technical skills, I bring a disciplined, systematic approach from my experience as a Freelance English Tutor. By building custom performance dashboards, I achieved a 60% improvement in student outcomes, demonstrating my commitment to measurable results. I am eager to bring this blend of analytical rigor and communication expertise to a growth-focused Data Analyst role.
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+My CV in [pdf](https://github.com/xbumbleboo/Data-Analysist-Portfolio/blob/main/(EN)%20Nguyen%20Quynh%20Chau%20-%20Data%20Analyst%20CV.pdf)
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
 
 ## Table of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
