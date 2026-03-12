@@ -72,7 +72,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** Analyzed pizza sales data to track revenue, order volume, and purchasing patterns. Created an interactive visualization system to monitor peak-hour trends and size preferences
 
 
-**Skills:**Data Aggregation, KPI Calculation, Data Visualization
+**Skills:** Data Aggregation, KPI Calculation, Data Visualization
 
 **Technology:** MySQL, Power BI
 
