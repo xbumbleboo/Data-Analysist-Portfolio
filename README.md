@@ -19,6 +19,8 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](https://github.com/xbumbleboo/Data-Analysist-Portfolio/tree/main?tab=readme-ov-file#about-me)
 - [Portfolio Projects](https://github.com/xbumbleboo/Data-Analysist-Portfolio/tree/main?tab=readme-ov-file#portfolio-projects)
+  - End-to-end (SQL · Python · Power BI)
+    - [JM Omnichannel Retail Analytics (Synthetic Data)](https://github.com/xbumbleboo/Data-Analysist-Portfolio/tree/main?tab=readme-ov-file#jm-omnichannel-retail-analytics-synthetic-data)
   - Python
     - [E-commerce Sales & Customer Insight Analysis](https://github.com/xbumbleboo/Data-Analysist-Portfolio/tree/main?tab=readme-ov-file#e-commerce-sales--customer-insight-analysis) 
   - SQL
@@ -35,12 +37,25 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+### JM Omnichannel Retail Analytics (Synthetic Data)
+**Code:** [`JM-Project`](https://github.com/xbumbleboo/JM-Project) (README in [English](https://github.com/xbumbleboo/JM-Project/blob/main/README.en.md) and [Vietnamese](https://github.com/xbumbleboo/JM-Project/blob/main/README.md))
+
+**Goal:** To understand what drives revenue for a Vietnamese omnichannel fashion retailer (29 stores, 7 online channels) and which findings are real signal rather than noise.
+
+**Description:** Generated a synthetic dataset in Python based on the retailer's public scale, policies, prices and promotions (39.5K customers, 542K offline invoices, 418K online order rows, Jan 2024 – Aug 2026). Built a BigQuery semantic layer (16 views, 2 derived tables) and an 8-page Power BI dashboard, then wrote a bilingual insight report with 16 prioritised recommendations, a methodology appendix and a fully reproducible pipeline.
+
+**Skills:** SQL Data Modelling, Dashboard Design, Regression Modelling, Hypothesis Testing, Cohort Analysis, Customer Lifetime Value
+
+**Technology:** Google BigQuery, Python (Pandas, NumPy, SciPy), Power BI (DAX)
+
+**Results:** Showed that promotions lift invoices 16–44% but cut order value, and that a quantity-based mechanism protects order value best; a cohort test overturned the RFM "lapsed" label (lapsed repeat buyers came back at 98%), moving the retention focus to one-time buyers' second purchase; TikTok Shop keeps only 48 of every 100 orders as revenue, against 66 for online overall.
+
 ### E-commerce Sales & Customer Insight Analysis
 **Code:** [`E_Commerce_EDA (EN).ipynb`](https://github.com/xbumbleboo/E-commerce-EDA-Project/blob/main/E_Commerce_EDA%20(EN).ipynb)
 
 **Goal:** To uncover trends in sales, customer behavior, and profitability drivers.
 
-**Description:** Conducted an end-to-end Exploratory Data Analysis (EDA) on 34.5K transactions. [cite_start]The project included data cleaning, calculating business KPIs, and performing customer segmentation to identify high-value categories.
+**Description:** Conducted an end-to-end Exploratory Data Analysis (EDA) on 34.5K transactions. The project included data cleaning, calculating business KPIs, and performing customer segmentation to identify high-value categories.
 
 **Skills:** Data Cleaning, Statistical Analysis, Customer Segmentation
 
