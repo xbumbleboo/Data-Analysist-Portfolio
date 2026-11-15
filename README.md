@@ -6,11 +6,11 @@ I began my journey in Tourism Management and Languages, where I developed a deep
 
 **Bridging Creativity and Analytics**
 
-To me, data is more than just numbers; it’s a narrative waiting to be decoded. I have mastered a technical toolkit including SQL (BigQuery), Python, and BI tools (Power BI, Tableau) to tackle complex business problems. Whether it’s identifying bottlenecks in a Sales Funnel or segmenting customers to drive ROI, I focus on transforming raw datasets into actionable strategies that move the needle for businesses.
+To me, data is more than just numbers; it’s a narrative waiting to be decoded. I work with SQL (BigQuery), Python and BI tools (Power BI, Tableau) to tackle business problems. As a Data Analyst at JM Dress Design, a Vietnamese omnichannel fashion retailer, I standardised sales metrics across departments, wrote BigQuery reporting queries and diagnosed data-governance risks; my JM Omnichannel Retail Analytics project builds on that domain end to end. Whether it’s identifying bottlenecks in a Sales Funnel or segmenting customers to drive ROI, I focus on transforming raw datasets into actionable strategies that move the needle for businesses.
 
 **A Systematic & Growth Mindset**
 
-Beyond the technical skills, I bring a disciplined, systematic approach from my experience as a Freelance English Tutor. By building custom performance dashboards, I achieved a 60% improvement in student outcomes, demonstrating my commitment to measurable results. I am eager to bring this blend of analytical rigor and communication expertise to a growth-focused Data Analyst role.
+Beyond the technical skills, I bring a disciplined, systematic approach from my experience as a Freelance English Tutor. By building custom performance dashboards, I achieved a 50–60% improvement in student outcomes, demonstrating my commitment to measurable results. I am eager to bring this blend of analytical rigor and communication expertise to a growth-focused Data Analyst role.
 
 My CV in [pdf](https://github.com/xbumbleboo/Data-Analysist-Portfolio/blob/main/(EN)%20Nguyen%20Quynh%20Chau%20-%20Data%20Analyst%20CV.pdf)
 
@@ -107,6 +107,7 @@ The best way to showcase skills is by doing and sharing your job done but someti
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/990c93a1033eb6d8ffa55770779c5a90) (Aug 2024) (Coursera - Google)
 - [Google Project Management](https://coursera.org/share/c43a86f0bba96e1c85ff71129c951ba3) (Apr 2024) (Coursera - Google)
 - [Google Digital Marketing & E-commerce](https://coursera.org/share/6828f41ad5054326be2ea6dc5a25bc2b) (Sep 2023) (Coursera - Google)
+- [Fundamentals of Digital Marketing](https://drive.google.com/file/d/1bluG9hfR1b0Z6eiKYb2NM0JmIhySk56i/view) (2023)
 
 ## Contacts
 - LinkedIn: [Quynh Chau Nguyen](https://www.linkedin.com/in/quynh-chau-nguyen-052b8619a/)
